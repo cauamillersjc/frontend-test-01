@@ -1,3 +1,24 @@
+## Rodando o projeto
+
+O primeiro passo para colocar o projeto para rodar é instalar as dependências. (Versão do Node utilizada: v18.17.0)
+
+``` 
+cd frontend-test-01
+npm install
+```
+
+após a instalação, para rodar em _development_ utilize:
+
+``` 
+npm start
+```
+
+para compilar o projeto utilize:
+
+``` 
+npm run build
+```
+
 # Desafio Front-end Delfosim
 > Desafio para ingressar como Front-end Developer na Delfosim em Fortaleza-CE
 
